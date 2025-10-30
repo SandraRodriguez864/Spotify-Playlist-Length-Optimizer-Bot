@@ -41,7 +41,7 @@ This Android automation project optimizes the total duration of any Spotify play
 - Scales across multiple devices and accounts to optimize many playlists in parallel.
 - Provides logs, diffs, and reports so you can review exactly what changed and why.
 
-##Core Features
+## Core Features
 - **Real Devices and Emulators:** Runs on physical Android phones/tablets and emulator stacks (Bluestacks, Android Studio AVD) for realistic behavior and robust flows.
 - **No-ADB Wireless Automation:** Control sessions over Wi-Fi without tethering; reduce cable management and keep device farms clean.
 - **Mimicking Human Behavior:** Randomized delays, scroll jitter, viewport-aware taps, and time-of-day scheduling to minimize detection.
